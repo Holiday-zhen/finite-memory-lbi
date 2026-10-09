@@ -1,0 +1,8 @@
+{
+  "reference_difference": 1.2510076054489654e-15,
+  "mp_feasibility": 7.892829234813326e-62,
+  "mp_inactive_kkt": 0.0,
+  "mp_gap_abs": 1.2446030555722283e-60,
+  "max_relative_energy_change": 1.2322359752637256e-11,
+  "factor_change": 1.9484414082171497e-13
+}
